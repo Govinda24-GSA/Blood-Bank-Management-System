@@ -1,0 +1,36 @@
+/* src/PrivacyPolicy.css */
+.privacy-policy-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 1.5em;
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  p {
+    font-size: 1em;
+    line-height: 1.6;
+    color: #555;
+  }
+  
